@@ -1,5 +1,5 @@
 {
-  "version": "0.0.3",
-  "firmware_url": "https://raw.githubusercontent.com/olavonobrevorpco/revogate-firmware/main/firmware/Revogate_ver_0_0_3.bin",
-  "notes": "Version 0.0.3 with queued OTA update, Serial logs restored, safer firmware update flow and Vorpco LDA footer."
+  "version": "0.0.4",
+  "firmware_url": "https://raw.githubusercontent.com/olavonobrevorpco/revogate-firmware/main/firmware/Revogate_ver_0_0_4.bin",
+  "notes": "Version 0.0.4 with compact Wi-Fi panel, automatic network scan, dropdown network selector and eye password toggle."
 }
