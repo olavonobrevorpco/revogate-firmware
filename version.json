@@ -1,5 +1,5 @@
 {
-  "version": "0.0.15",
-  "firmware_url": "https://raw.githubusercontent.com/olavonobrevorpco/revogate-firmware/main/firmware/Revogate_ver_0_0_15.bin",
-  "notes": "Version 0.0.15 adds faster controlled ramps and independent 5-second monitoring windows that ignore acceleration data."
+  "version": "0.0.16",
+  "firmware_url": "https://raw.githubusercontent.com/olavonobrevorpco/revogate-firmware/main/firmware/Revogate_ver_0_0_16.bin",
+  "notes": "Version 0.0.16 adds the automatic calibration sequence from 10% to 70%, disables Auto Mode during calibration, and extends CSV recording to 180 seconds."
 }
