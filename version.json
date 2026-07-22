@@ -1,5 +1,5 @@
 {
-  "version": "0.0.12",
-  "firmware_url": "https://raw.githubusercontent.com/olavonobrevorpco/revogate-firmware/main/firmware/Revogate_ver_0_0_12.bin",
-  "notes": "Version 0.0.12 adds a real-time startup graph and telemetry logging."
+  "version": "0.0.13",
+  "firmware_url": "https://raw.githubusercontent.com/olavonobrevorpco/revogate-firmware/main/firmware/Revogate_ver_0_0_13.bin",
+  "notes": "Version 0.0.13 adds a complete 120-second telemetry capture and CSV download."
 }
