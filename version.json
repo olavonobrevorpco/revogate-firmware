@@ -1,5 +1,5 @@
 {
-  "version": "0.0.4",
-  "firmware_url": "https://raw.githubusercontent.com/olavonobrevorpco/revogate-firmware/main/firmware/Revogate_ver_0_0_4.bin",
-  "notes": "Version 0.0.4 with compact Wi-Fi panel, automatic network scan, dropdown network selector and eye password toggle."
+  "version": "0.0.12",
+  "firmware_url": "https://raw.githubusercontent.com/olavonobrevorpco/revogate-firmware/main/firmware/Revogate_ver_0_0_12.bin",
+  "notes": "Version 0.0.12 adds a real-time startup graph and telemetry logging."
 }
