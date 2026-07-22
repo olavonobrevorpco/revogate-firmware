@@ -1,5 +1,5 @@
 {
-  "version": "0.0.17",
-  "firmware_url": "https://raw.githubusercontent.com/olavonobrevorpco/revogate-firmware/main/firmware/Revogate_ver_0_0_17.bin",
-  "notes": "Version 0.0.17 adds a closed load-release cycle: direct acceleration from 10% to 70%, 20 seconds at 70%, direct return to 10%, and a 60-second stabilization period."
+  "version": "0.0.18",
+  "firmware_url": "https://raw.githubusercontent.com/olavonobrevorpco/revogate-firmware/main/firmware/Revogate_ver_0_0_18.bin",
+  "notes": "Version 0.0.18 raises throttle from 10% to 70% in 10% steps every 5 seconds, then holds 70% for 20 seconds before returning directly to 10%."
 }
