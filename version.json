@@ -1,5 +1,5 @@
 {
-  "version": "0.0.13",
-  "firmware_url": "https://raw.githubusercontent.com/olavonobrevorpco/revogate-firmware/main/firmware/Revogate_ver_0_0_13.bin",
-  "notes": "Version 0.0.13 adds a complete 120-second telemetry capture and CSV download."
+  "version": "0.0.14",
+  "firmware_url": "https://raw.githubusercontent.com/olavonobrevorpco/revogate-firmware/main/firmware/Revogate_ver_0_0_14.bin",
+  "notes": "Version 0.0.14 adds the experimental Auto Mode with dynamic load detection, smooth 10% speed steps, stabilization delays, and a 70% safety limit."
 }
